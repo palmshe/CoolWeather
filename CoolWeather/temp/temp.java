@@ -10,5 +10,9 @@ public class Temp{
 
 		System.out.println("我是1号仓库");
 
+
+		System.out.println("我是2号仓库");
+
+
 	}
 }
