@@ -8,5 +8,7 @@ public class Temp{
 
 		System.out.println("i'm git_2");
 
+		System.out.println("Œ“ «1∫≈≤÷ø‚");
+
 	}
 }
