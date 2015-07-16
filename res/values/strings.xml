@@ -1,5 +1,6 @@
 <resources>
 
     <string name="app_name">NewCoolWeather</string>
+    <string name="is_positive">确定</string>
 
 </resources>

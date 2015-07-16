@@ -6,12 +6,15 @@
     <uses-sdk
         android:minSdkVersion="14"
         android:targetSdkVersion="19" />
+    <instrumentation android:name="android.test.InstrumentationTestRunner" 
+        android:targetPackage="com.palmshe.newcoolweather"/>
 
     <application
         android:allowBackup="true"
         android:icon="@drawable/ic_launcher"
         android:label="@string/app_name"
         android:theme="@style/AppTheme" >
+        <uses-library android:name="android.test.runner"/>
     </application>
 
 </manifest>
